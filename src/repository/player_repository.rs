@@ -11,7 +11,7 @@ impl PlayerRepository {
     pub fn new() -> Self {
         Self {
             gold: 1000,
-            swords: vec![Sword { name: "기본검".into(), level: 0, base_price: 500 }],
+            swords: vec![Sword::new("검", 500, 450)],
             protection_count: 1,
             blessing_count: 1,
         }

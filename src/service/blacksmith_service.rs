@@ -176,7 +176,7 @@ impl<'repo_life_time> BlacksmithService<'repo_life_time> {
         let price = if sword.level == 0 {
             ((sword.base_price as f32) * 0.9) as u32
         } else {
-            ((sword.base_price as f32) * (1.0 + (sword.level as f32 * 0.5))) as u32
+            ((sword.base_price as f32) * (1.0 + (sword.level as f32 * 0.2))) as u32
         };
 
         return price;

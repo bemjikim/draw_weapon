@@ -1,9 +1,0 @@
-C:\Users\ccxx2\OneDrive\바탕 화면\woowacourse\4week\draw_weapon\target\debug\deps\enum_ordinalize_derive-c73b56d00e1c2868.d: C:\Users\ccxx2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\enum-ordinalize-derive-4.3.2\src\lib.rs C:\Users\ccxx2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\enum-ordinalize-derive-4.3.2\src\int128.rs C:\Users\ccxx2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\enum-ordinalize-derive-4.3.2\src\int_wrapper.rs C:\Users\ccxx2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\enum-ordinalize-derive-4.3.2\src\panic.rs C:\Users\ccxx2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\enum-ordinalize-derive-4.3.2\src\variant_type.rs
-
-C:\Users\ccxx2\OneDrive\바탕 화면\woowacourse\4week\draw_weapon\target\debug\deps\enum_ordinalize_derive-c73b56d00e1c2868.dll: C:\Users\ccxx2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\enum-ordinalize-derive-4.3.2\src\lib.rs C:\Users\ccxx2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\enum-ordinalize-derive-4.3.2\src\int128.rs C:\Users\ccxx2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\enum-ordinalize-derive-4.3.2\src\int_wrapper.rs C:\Users\ccxx2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\enum-ordinalize-derive-4.3.2\src\panic.rs C:\Users\ccxx2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\enum-ordinalize-derive-4.3.2\src\variant_type.rs
-
-C:\Users\ccxx2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\enum-ordinalize-derive-4.3.2\src\lib.rs:
-C:\Users\ccxx2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\enum-ordinalize-derive-4.3.2\src\int128.rs:
-C:\Users\ccxx2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\enum-ordinalize-derive-4.3.2\src\int_wrapper.rs:
-C:\Users\ccxx2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\enum-ordinalize-derive-4.3.2\src\panic.rs:
-C:\Users\ccxx2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\enum-ordinalize-derive-4.3.2\src\variant_type.rs:
